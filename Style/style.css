@@ -1,0 +1,11 @@
+
+
+.new-event-div{
+	margin-bottom: 1rem;
+}
+
+.startDate, .endDate, .addDate, .invitation, .addName{
+	margin-bottom: 1rem;
+}
+
+.material-icons.md-dark { color: rgba(0, 0, 0, 0.54); }
