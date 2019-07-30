@@ -1,4 +1,8 @@
 
+
+
+
+
 //deklarerar eventTable som en variabel. Det i den här tabellen som vi sedan ska fylla på med event som Anna-Stina skapar upp
 const eventTable = document.getElementById("eventTableBody")
 
